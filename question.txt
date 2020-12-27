@@ -1,0 +1,13 @@
+Coding Task 01: Implement forward and backpropagation for Figure 01 Neural Network. Use ReLU in the hidden layer and sigmoid in the output layer as an activation function. (Using Figure 01)
+
+Mathematical Task 01: Write all mathematical equations in each layer. (Using Figure 01)
+
+Mathematical Task 02: Calculate layer to layer parameter(matrix size) calculation & no of operation( multiplication & addition) needed for below neural network. (Using Figure 02)
+
+Mathematical Task 02: Calculate layer to layer parameter(matrix size) calculation & no of operation( multiplication & addition) needed for below neural network. (Using Figure 02)
+
+Theory 01: What is transfer learning? Explain how transfer learning is used in image classification.
+
+Theory 02: What is the loss function and why do we use it (include some names of loss function)?
+
+Theory 03: What is Cross validation? Why do we need this?
